@@ -1,6 +1,6 @@
 {
   "name": "@alifd/next-reset-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A webpack loader for injecting reset.scss and icon.scss to entry js file.",
   "keywords": [
     "fusion",

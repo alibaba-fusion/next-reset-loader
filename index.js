@@ -7,7 +7,6 @@ module.exports = function(source) {
     return i === this.resource
   }));
 
-  console.log(entry,matched, this.resource)
   if(!matched) {
     return source;
   }
